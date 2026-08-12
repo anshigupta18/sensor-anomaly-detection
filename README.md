@@ -156,6 +156,5 @@ This analysis supports:
 
 ![Dashboard Day 30](Dashboard_day_30.png)
 
-*Add your published Power BI link here once available*
-
-🔗 *Add your published Power BI link here once available*
+### Public Dashboard Link
+[PowerBI_dshboard](https://app.powerbi.com/groups/me/reports/c2c262a0-697a-438b-b954-c59094b16315/12acebc5ac620720976e?experience=power-bi)
